@@ -1,48 +1,195 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5704cc&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5704cc&height=140&section=header"/>
 
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5704cc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Junior+Coelho;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=8A2BE2\&center=true\&vCenter=true\&width=950\&lines=Ol%C3%A1%2C+eu+sou+Junior+Coelho+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Focado+em+DevOps+%26+Infraestrutura;Estudando+e+construindo+na+pr%C3%A1tica+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuniorCoelho10&show_icons=true&count_private=true&hide_border=true&title_color=5704cc&icon_color=5704cc&text_color=c9d1d9&bg_color=0d1117" alt="Junior Coelho github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCoelho10&layout=compact&hide_border=true&title_color=5704cc&text_color=5704cc&bg_color=0d1117" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=JuniorCoelho10&style=for-the-badge&color=5704cc&label=VISITAS+AO+PERFIL"/>
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JuniorCoelho10&bg_color=000000&color=5704cc&line=5704cc&point=390485&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuniorCoelho10&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+## 👨‍💻 Sobre mim
 
-<div align="center">  
-<a href="https://www.instagram.com/op.juniorcoelho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente estou direcionando meus estudos e minha carreira para a área de **DevOps e Infraestrutura**.
 
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+🚀 Atualmente estudo **DevOps pela Rocketseat**, buscando desenvolver uma base prática em Linux, Containers, Cloud, Infraestrutura como Código, automação e CI/CD.
 
-  
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+Meu objetivo é aprender cada vez mais sobre como **automatizar processos, provisionar infraestrutura, trabalhar com ambientes e melhorar a entrega e operação de aplicações**.
 
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div> -->
+Também possuo uma base em **desenvolvimento de software**, adquirida durante minha formação e através de projetos práticos com JavaScript, Node.js, NestJS, HTML, CSS e MySQL.
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5704cc&height=120&section=footer"/>
+# 🚀 Tecnologias & Conhecimentos
+
+## ⚙️ DevOps & Infraestrutura
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,terraform,aws,git,github&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Linux** • **Docker** • **Docker Compose** • **Terraform** • **AWS** • **Git** • **GitHub**
+
+</div>
+
+---
+
+## 💻 Base em Desenvolvimento
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,nestjs,html,css&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+**JavaScript** • **Node.js** • **NestJS** • **HTML** • **CSS**
+
+</div>
+
+> Conhecimentos adquiridos durante minha formação e projetos práticos, servindo como base para meus estudos atuais em DevOps.
+
+---
+
+## 🗄️ Banco de Dados
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+**MySQL** • **SQL**
+
+</div>
+
+> Conhecimentos básicos desenvolvidos através de projetos e atividades práticas.
+
+---
+
+## 🛠️ Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,ubuntu,figma&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+**VS Code** • **Ubuntu / WSL** • **Figma**
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+<div align="center">
+
+### 🐧 Linux
+
+### 🐳 Docker & Docker Compose
+
+### ☁️ AWS
+
+### 🏗️ Terraform / Infrastructure as Code
+
+### 🔄 CI/CD
+
+### ⚙️ DevOps
+
+</div>
+
+---
+
+# 📂 Projetos em destaque
+
+### 🐳 Docker Books API
+
+Projeto prático de containerização de uma aplicação utilizando **Docker e Docker Compose**.
+
+Durante o projeto foram trabalhados conceitos como **containers, imagens, banco de dados, redes, volumes e variáveis de ambiente**.
+
+**Docker • Docker Compose • Node.js • NestJS • MySQL**
+
+---
+
+### ☁️ Infrastructure as Code
+
+Projetos práticos utilizando **Terraform** para criação e gerenciamento de infraestrutura em Cloud.
+
+**Terraform • AWS • Linux**
+
+---
+
+### 🔧 Git & GitHub
+
+Projetos e exercícios utilizando **Git e GitHub** para praticar controle de versão, commits, branches, repositórios e gerenciamento de código.
+
+**Git • GitHub • Version Control**
+
+---
+
+# 🎯 Objetivo
+
+<div align="center">
+
+🚀 **Construir minha carreira na área de DevOps e Infraestrutura**
+
+<br><br>
+
+Atualmente estou focado em fortalecer meus conhecimentos em:
+
+**Linux • Docker • Cloud • Terraform • CI/CD • Automação**
+
+<br><br>
+
+Sempre buscando aprender através de **estudos e projetos práticos**.
+
+</div>
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+<a href="https://github.com/JuniorCoelho10">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.instagram.com/op.juniorcoelho/">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Aprendendo hoje para construir o próximo passo amanhã.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5704cc&height=140&section=footer"/>
